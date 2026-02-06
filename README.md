@@ -93,6 +93,8 @@ streamlit run app.py
 ## 🖥️ Application Preview
 
 Screenshots of the prediction interface and outputs:
+### 🔹 Web Interface
+![Web Interface](assets/Web_UI.png)
 
 ### 🔹 Predicted Price Output
 ![Predicted Price](assets/predicted_price.png)
